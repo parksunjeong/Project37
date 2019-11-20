@@ -5,7 +5,7 @@ int main (void)
 	char star = '*';
 	char* pstar = &star;
 
-	printf("ÁÖ¼Ò: %d ÄÚµå°ª: %d ¹®ÀÚ: %c\n", &pstar, *pstar, *pstar);
+	printf("ì£¼ì†Œ: %d ì½”ë“œê°’: %d ë¬¸ì: %c\n", &pstar, *pstar, *pstar);
 
 	return 0;
 }
